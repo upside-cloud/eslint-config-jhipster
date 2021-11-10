@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-jhipster",
-  "version": "0.0.3",
+  "name": "@upside/eslint-config-jhipster",
+  "version": "0.12.0",
   "description": "Provides JHipster ESLint shareable configurations for Javascript applications",
   "main": "index.js",
   "scripts": {
