@@ -1,3 +1,8 @@
+
+eslint-config-jhipster for angular@13
+
+---
+
 # eslint-config-jhipster
 
 Provides [JHipster](https://www.jhipster.tech) [ESLint](https://eslint.org/docs/developer-guide/shareable-configs) shareable configurations used in the JHispter frontend Typescript/Javascript applications.
