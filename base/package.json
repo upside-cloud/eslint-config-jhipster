@@ -1,10 +1,12 @@
 {
   "name": "@upside-cloud/eslint-config-jhipster",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "Provides JHipster ESLint shareable configurations for Javascript applications. Upgraded for Angular 13.",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write '*.{md,json,js}'"
+    "format": "prettier --write '*.{md,json,js}'",
+    "npm:login": "npm login",
+    "npm:publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
